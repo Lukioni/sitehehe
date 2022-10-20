@@ -1,7 +1,12 @@
 html,
 body,
+.body{background-image: url(https://i.ibb.co/Y0Pwm55/background.jpg);
+  background-size:cover;
+  background-repeat: no-repeat;}
 .view {
-  height: 100%; }
+  height: 100%; 
+  
+   }
 
 #mobile-box {
   width: 360px; }
